@@ -350,7 +350,7 @@
       <div class="field field-type-filefield field-field-picture">
     <div class="field-items">
             <div class="field-item odd">
-                    <img src="/sites/default/files/imagecache/profile/profiles/place-holder-left.gif" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
+                    <img src="/sites/default/files/imagecache/profile/profiles/darrin.jpg" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
         </div>
 </div>
               <h4 class="title">Darrin Myers</h4>
