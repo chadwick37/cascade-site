@@ -681,7 +681,7 @@
             <div class="field-item odd">
                       <div class="field-label-inline-first">
               Email:&nbsp;</div>
-                    <span class="spamspan"><span class="u">briank</span> [at] <span class="d">chwa [dot] com</span></span>        </div>
+                    <span class="spamspan"><a href="mailto:briank[at]chwa[dot]com">briank@chwa.com</a></span>        </div>
         </div>
 </div>
 

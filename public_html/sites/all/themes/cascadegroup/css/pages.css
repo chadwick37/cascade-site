@@ -1142,12 +1142,13 @@ div#block-views-staff-block_2 div.node-type-profile div.fieldgroup div.field-lab
 
 body.page-log-buying div#content-area div.content {
 	background: none;
-	height: 754px;
+/* 	height: 754px; */
 	padding-bottom: 10px;
 }
 
 body.page-log-buying div.views-row {
 	height: 176px;
+	overflow: hidden;
 }
 
 body.page-log-buying div.views-row div#node-98 {
