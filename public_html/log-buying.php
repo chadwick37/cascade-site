@@ -228,7 +228,7 @@
 				<div class="field field-type-text field-field-job-title">
     <div class="field-items">
             <div class="field-item odd">
-                    Log Buyer, Port Angeles | Extension Forester        </div>
+                    Log Buyer</div>
         </div>
 </div>
 	    			<div class="fieldgroup group-cascade-contact">
@@ -270,6 +270,7 @@
 </div>
     </div>
 </div>  </div>
+
   <div class="views-row views-row-2 views-row-even">
     
 <div class="node node node-teaser clearfix node-type-profile" id="node-100">
@@ -323,6 +324,67 @@
 </div>
 			    </div>
 </div>  </div>
+
+
+
+  <div class="views-row views-row-3 views-row-odd">
+    
+<div class="node node node-teaser clearfix node-type-profile" id="node-brian">
+    <div class="content">
+			<div class="field field-type-filefield field-field-picture">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <img src="http://www.cascadehardwood.com/sites/default/files/imagecache/profile/profiles/brian.jpg" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
+        </div>
+</div>
+	    	      <h4 class="title">Brian Karnes</h4>
+				<div class="field field-type-text field-field-job-title">
+    <div class="field-items">
+            <div class="field-item odd">
+                    Log Buyer        </div>
+        </div>
+</div>
+	    			<div class="fieldgroup group-cascade-contact">
+  	<div class="field field-type-phone-number field-field-toll-free">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Toll Free:&nbsp;</div>
+                    (800) 851 9484        </div>
+        </div>
+</div>
+<div class="field field-type-phone-number field-field-direct">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Direct:&nbsp;</div>
+                    (360) 345 1301        </div>
+        </div>
+</div>
+<div class="field field-type-phone-number field-field-cell">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Cell:&nbsp;</div>
+                    (360) 208 9120        </div>
+        </div>
+</div>
+
+
+<div class="field field-type-email field-field-email">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Email:&nbsp;</div>
+                    <span class="spamspan"><a href="mailto:briank[at]chwa[dot]com">briank@chwa.com</a></span>        </div>
+        </div>
+</div>
+</div>
+			    </div>
+</div>  </div>
+
+
+
   <div class="views-row views-row-3 views-row-odd">
     
 <div class="node node node-teaser clearfix node-type-profile" id="node-98">
@@ -384,6 +446,8 @@
 </div>
 			    </div>
 </div>  </div>
+
+
   <div class="views-row views-row-4 views-row-even">
     
 <div class="node node node-teaser clearfix node-type-profile" id="node-99">

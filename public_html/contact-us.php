@@ -420,7 +420,7 @@
 				<div class="field field-type-text field-field-job-title">
     <div class="field-items">
             <div class="field-item odd">
-                    Log Buyer, Port Angeles | Extension Forester        </div>
+                    Log Buyer</div>
         </div>
 </div>
 	    			<div class="fieldgroup group-cascade-contact">
@@ -466,7 +466,7 @@
 			<div class="field field-type-filefield field-field-picture">
     <div class="field-items">
             <div class="field-item odd">
-                    <img src="/sites/default/files/imagecache/profile/profiles/place-holder-left.gif" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
+                    <img src="/sites/default/files/imagecache/profile/profiles/ron.jpg" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
         </div>
 </div>
 	    	      <h4 class="title">Ron Hurn</h4>
@@ -519,7 +519,7 @@
 			<div class="field field-type-filefield field-field-picture">
     <div class="field-items">
             <div class="field-item odd">
-                    <img src="/sites/default/files/imagecache/profile/profiles/place-holder-left.gif" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
+                    <img src="/sites/default/files/imagecache/profile/profiles/darrell.jpg" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
         </div>
 </div>
 	    	      <h4 class="title">Darrell Alvord</h4>
@@ -580,7 +580,7 @@
 			<div class="field field-type-filefield field-field-picture">
     <div class="field-items">
             <div class="field-item odd">
-                    <img src="/sites/default/files/imagecache/profile/profiles/place-holder-left.gif" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
+                    <img src="/sites/default/files/imagecache/profile/profiles/ken.jpg" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
         </div>
 </div>
 	    	      <h4 class="title">Ken Jones</h4>
@@ -634,7 +634,6 @@
 </div>
 			    </div>
 </div>  </div>
-<!--
   <div class="views-row views-row-4 views-row-even views-row-last">
     
 <div class="node node node-teaser clearfix node-type-profile" id="node-51">
@@ -642,14 +641,14 @@
 			<div class="field field-type-filefield field-field-picture">
     <div class="field-items">
             <div class="field-item odd">
-                    <img src="http://www.cascadehardwood.com/sites/default/files/imagecache/profile/profiles/tom.jpg" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
+                    <img src="http://www.cascadehardwood.com/sites/default/files/imagecache/profile/profiles/brian.jpg" alt="" title=""  class="imagecache imagecache-profile imagecache-default imagecache-profile_default" width="276" height="194" />        </div>
         </div>
 </div>
-	    	      <h4 class="title">Tom Layton</h4>
+	    	      <h4 class="title">Brian Karnes</h4>
 				<div class="field field-type-text field-field-job-title">
     <div class="field-items">
             <div class="field-item odd">
-                    Cascade Group Log Buyer | Extension Forester        </div>
+                    Log Buyer        </div>
         </div>
 </div>
 	    			<div class="fieldgroup group-cascade-contact">
@@ -666,7 +665,7 @@
             <div class="field-item odd">
                       <div class="field-label-inline-first">
               Direct:&nbsp;</div>
-                    (360) 748 0178        </div>
+                    (360) 345 1301        </div>
         </div>
 </div>
 <div class="field field-type-phone-number field-field-cell">
@@ -674,7 +673,7 @@
             <div class="field-item odd">
                       <div class="field-label-inline-first">
               Cell:&nbsp;</div>
-                    (360) 880 2656        </div>
+                    (360) 208 9120        </div>
         </div>
 </div>
 <div class="field field-type-email field-field-email">
@@ -682,14 +681,14 @@
             <div class="field-item odd">
                       <div class="field-label-inline-first">
               Email:&nbsp;</div>
-                    <span class="spamspan"><span class="u">laytonte</span> [at] <span class="d">chwa [dot] com</span></span>        </div>
+                    <span class="spamspan"><span class="u">briank</span> [at] <span class="d">chwa [dot] com</span></span>        </div>
         </div>
 </div>
 
 
 </div>
 			    </div>
-</div>  </div>-->
+</div>  </div>
     </div>
   
   

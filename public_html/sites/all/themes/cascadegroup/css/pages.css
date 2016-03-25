@@ -1052,13 +1052,22 @@ div#block-views-staff-block_2 div#node-51 div.content div.field-field-picture {
 	width: 141px;
 }
 
+/* brian karnes */
+div#block-views-staff-block_2 div#node-brian div.content div.field-field-picture img  {
+	display: none;
+}
+div#block-views-staff-block_2 div#node-brian div.content div.field-field-picture {
+	background: url(../images/brian-color.jpg) no-repeat center center;
+	height: 137px;
+	width: 141px;
+}
 
 /* darrel alvord */
 div#block-views-staff-block_2 div#node-98 div.content div.field-field-picture img  {
 	display: none;
 }
 div#block-views-staff-block_2 div#node-98 div.content div.field-field-picture {
-	background: url(../images/southwest.png) no-repeat center center;
+	background: url(../images/darrell-color.jpg) no-repeat center center;
 	height: 137px;
 	width: 141px;
 }
@@ -1085,7 +1094,7 @@ div#block-views-staff-block_2 div#node-99 div.content div.field-field-picture im
 	display: none;
 }
 div#block-views-staff-block_2 div#node-99 div.content div.field-field-picture {
-	background: url(../images/southwest.png) no-repeat center center;
+	background: url(../images/ken-color.jpg) no-repeat center center;
 	height: 137px;
 	width: 141px;
 	/*margin-top: 50px;*/
